@@ -36,7 +36,7 @@ const data = {
           
 
     // 如果分钟数为20或50，输出“站起来活动一下吧”
-    if (this.minutes === 20||this.minu === 25) {
+    if (this.minutes === 20||this.minu === 28) {
       timeString += "\n站起来活动一下吧！";
     }
 
