@@ -39,7 +39,7 @@ const data = {
     if (this.minutes === 20) {
       timeString += "\n站起来活动一下吧！";
     }
-    if (this.minutes === 35) {
+    if (this.minutes === 36) {
       timeString += "\n站起来活动一下吧！";
     }
 
